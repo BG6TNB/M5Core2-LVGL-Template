@@ -1,5 +1,7 @@
 # M5Core2 LVGL Template
 
+![](./IMG_5787.jpeg)
+
 This is an LVGL template project for M5Stack Core 2 devices, only the necessary lib files are installed and all options are already configured.
 
 Clone this project directly and use the PlatformIO IDE to open it and run the example program directly.
